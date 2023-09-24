@@ -23,7 +23,7 @@ Fonts are separated by a & */
   --paragraph-background-color: #08263d  ;
   --nav-link-color: #a7c6dd;
   --nav-background-color: #a7c6dd;
-  --nav-hover-link-color: white;
+  --nav-hover-link-color: rgb(255, 255, 255);
   --nav-hover-background-color: #a7c6dd;
 }
 
@@ -75,7 +75,7 @@ p {
   text-align: center;
 }
 .colors th {
-  background-color: #999;
+  background-color: #b0c039;
 }
 .colors td{
   width: 25%;
@@ -136,17 +136,17 @@ nav a:hover {
 }
 .sm-home {
   grid-area: home;
-  background-color: #ccc;
+  background-color: #148753;
   line-height: 3em;
 }
 .sm-page2 {
   grid-area: page2;
-  background-color: #ccc;
+  background-color: #68a658;
   line-height: 3em;
 }
 .sm-page3 {
   grid-area: page3;
-  background-color: #ccc;
+  background-color: #67c086;
   line-height: 3em;
 }
 .top {
