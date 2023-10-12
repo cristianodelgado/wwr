@@ -42,7 +42,7 @@ nav a:hover{
     background-color: #6a5e7d; 
     color: #d9c2a3;
     text-decoration: none;
-    font: size 18px;
+    font-size: 18px;
     padding: 15px 30px;
     margin-top: 50px;
     border-radius: 5px;
@@ -51,7 +51,7 @@ nav a:hover{
     background-color: #555c6b;
     color: #d9c2a3; 
     text-decoration: none;
-    font: size 18px;
+    font-size: 18px;
     padding: 15px 30px;
     margin-top: 50px;
     border-radius: 5px;
@@ -92,7 +92,7 @@ h4{
 }
 .msg p{
     color: #d9c2a3;
-    font: size 8em;
+    font-size: 8em;
     padding-bottom: 15px;
 }
 footer a{
