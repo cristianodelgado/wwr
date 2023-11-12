@@ -219,14 +219,6 @@ main section img {
     grid-row: 4/7;    
     box-shadow: 5px 5px 10px #6f7364;
 }
-.rates h2 {
-    text-align: center;
-    color: #180f82;
-    font-family: Gloria Hallelujah, Arial Narrow Bold, Helvetica;
-    font-size: 2em;
-    margin-top: 10px;
-}
-
 
 @media screen and (max-width: 900px) {
     #hero, .home-grid {
