@@ -205,6 +205,29 @@ main section img {
     opacity: .6;
     transform: scale(1.1);
 }
+.rapids-card1{
+    margin: 200px 0;
+    grid-column: 8/10;
+    grid-row: 2/3;
+}
+.msg1{
+    
+    background-color: #e4e4eb; 
+    line-height: 1.5em;
+    padding: 35px;
+    grid-column: 2/10;
+    grid-row: 4/7;    
+    box-shadow: 5px 5px 10px #6f7364;
+}
+.rates h2 {
+    text-align: center;
+    color: #180f82;
+    font-family: Gloria Hallelujah, Arial Narrow Bold, Helvetica;
+    font-size: 2em;
+    margin-top: 10px;
+}
+
+
 @media screen and (max-width: 900px) {
     #hero, .home-grid {
         display: block;
